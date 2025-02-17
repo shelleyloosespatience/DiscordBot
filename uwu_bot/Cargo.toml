@@ -4,10 +4,10 @@ version = "0.1.0"
 edition = "2021"
 build = "build.rs"
 
-[build-dependencies]
-walkdir = "2"
-
 [dependencies]
-serenity = "0.11"
+serenity = { version = "0.11", features = ["client", "framework"] }
+tokio = { version = "1", features = ["full"] }
 chrono = "0.4"
-tokio = "1"
+
+[build-dependencies]
+walkdir = "2.5"

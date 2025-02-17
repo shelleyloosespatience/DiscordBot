@@ -2,28 +2,25 @@ use serenity::model::channel::Message;
 use serenity::prelude::*;
 use crate::commands::Command;
 
-pub struct PingCommand;
+pub struct HelpCommand;
 
-impl PingCommand {
+impl HelpCommand {
     pub fn new() -> Self {
-        PingCommand
+        HelpCommand
     }
 }
 
-impl Command for PingCommand {
+impl Command for HelpCommand {
     fn name(&self) -> &str {
-        "ping"
+        "help"
     }
 
     fn execute(&self, ctx: &Context, msg: &Message) {
-        if let Err(why) = msg.channel_id.say(&ctx.http, "Pong!") {
-            println!("Error sending Pong: {:?}", why);
-        }
+        let _ = msg.channel_id.say(&ctx.http, "This is the help command.");
     }
 }
 
 /// Helper function for command registration.
-/// Returns an instance of the command.
 pub fn create() -> Option<Box<dyn Command + Send + Sync>> {
-    Some(Box::new(PingCommand::new()))
+    Some(Box::new(HelpCommand::new()))
 }
