@@ -29,6 +29,7 @@ impl EventHandler for Handler {
         }
     }
 }
+include!(concat!(env!("OUT_DIR"), "/generated_commands.rs"));
 
 #[tokio::main]
 async fn main() {
