@@ -1,0 +1,35 @@
+[2025-02-25T11:32:11.321Z] error: Uncaught exception: client.distube?.queues.forEach is not a function
+[2025-02-25T11:33:04.699Z] error: Invalid slash command structure in /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+[2025-02-25T11:33:39.712Z] error: Uncaught exception: client.distube?.queues.forEach is not a function
+[2025-02-25T11:33:45.711Z] error: Failed to load command from commands/slash/music/music.js: Cannot find module 'mongoose'
+Require stack:
+- /workspaces/DiscordBot/DiscordNexus/src/handlers/buttonHandler.js
+- /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+- /workspaces/DiscordBot/DiscordNexus/src/loader/loadcommands.js
+- /workspaces/DiscordBot/DiscordNexus/src/index.js
+[2025-02-25T11:33:59.304Z] error: Error playing music: https://www.youtube.com/watch?v=dJWFUBAUM0E
+Sign in to confirm you’re not a bot
+[2025-02-25T11:34:32.470Z] error: Error playing music: https://www.youtube.com/watch?v=6piRLp7BV8o
+Sign in to confirm you’re not a bot
+[2025-02-25T11:44:10.229Z] error: Uncaught exception: client.distube?.queues.forEach is not a function
+[2025-02-25T11:44:14.586Z] error: Failed to load command from commands/slash/music/music.js: Cannot find module 'mongoose'
+Require stack:
+- /workspaces/DiscordBot/DiscordNexus/src/handlers/buttonHandler.js
+- /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+- /workspaces/DiscordBot/DiscordNexus/src/loader/loadcommands.js
+- /workspaces/DiscordBot/DiscordNexus/src/index.js
+[2025-02-25T11:48:05.980Z] error: Uncaught exception: client.distube?.queues.forEach is not a function
+[2025-02-25T11:48:11.966Z] error: Failed to load command from commands/slash/music/music.js: Cannot find module 'mongoose'
+Require stack:
+- /workspaces/DiscordBot/DiscordNexus/src/handlers/buttonHandler.js
+- /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+- /workspaces/DiscordBot/DiscordNexus/src/loader/loadcommands.js
+- /workspaces/DiscordBot/DiscordNexus/src/index.js
+[2025-02-25T11:49:10.553Z] error: Uncaught exception: client.distube?.queues.forEach is not a function
+[2025-02-25T11:49:16.144Z] error: [31m[ERROR][39m Failed to load command from commands/slash/music/music.js: Cannot find module 'mongoose'
+Require stack:
+- /workspaces/DiscordBot/DiscordNexus/src/handlers/buttonHandler.js
+- /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+- /workspaces/DiscordBot/DiscordNexus/src/loader/loadcommands.js
+- /workspaces/DiscordBot/DiscordNexus/src/index.js
+[2025-02-25T12:01:53.689Z] error: Uncaught exception: client.distube?.queues.forEach is not a function

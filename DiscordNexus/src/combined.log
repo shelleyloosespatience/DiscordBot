@@ -1,0 +1,346 @@
+[2025-02-25T11:29:57.838Z] info: DisTube setup completed
+[2025-02-25T11:29:57.840Z] info: Loaded event: interactionCreate from buttonInteraction.js
+[2025-02-25T11:29:57.841Z] info: Loaded event: guildMemberAdd from guildMemberAdd.js
+[2025-02-25T11:29:57.842Z] info: Loaded event: interactionCreate from interactionCreate.js
+[2025-02-25T11:29:57.845Z] info: Loaded event: messageCreate from messageCreate.js
+[2025-02-25T11:29:57.845Z] info: Loaded event: interactionCreate from modalSubmit.js
+[2025-02-25T11:29:57.845Z] info: Loaded event: ready from ready.js
+[2025-02-25T11:29:57.917Z] info: Ticket configuration loaded successfully
+[2025-02-25T11:30:00.700Z] info: Logged in as TheLaxentaSmp!#1622
+[2025-02-25T11:30:00.702Z] info: Loaded slash command: 8ball from commands/slash/fun/8ball.js
+[2025-02-25T11:30:00.703Z] info: Loaded slash command: roll from commands/slash/fun/roll.js
+[2025-02-25T11:30:00.704Z] info: Loaded slash command: ban from commands/slash/moderation/ban.js
+[2025-02-25T11:30:00.705Z] info: Loaded slash command: channel from commands/slash/moderation/channel.js
+[2025-02-25T11:30:00.706Z] info: Loaded slash command: clear from commands/slash/moderation/clear.js
+[2025-02-25T11:30:00.707Z] info: Loaded slash command: kick from commands/slash/moderation/kick.js
+[2025-02-25T11:30:00.708Z] info: Loaded slash command: role from commands/slash/moderation/role.js
+[2025-02-25T11:30:00.709Z] info: Loaded slash command: timeout from commands/slash/moderation/timeout.js
+[2025-02-25T11:30:00.710Z] info: Loaded slash command: warn from commands/slash/moderation/warn.js
+[2025-02-25T11:30:00.710Z] info: Loaded slash command: pause from commands/slash/music/pause.js
+[2025-02-25T11:30:00.713Z] info: Loaded slash command: play from commands/slash/music/play.js
+[2025-02-25T11:30:00.713Z] info: Loaded slash command: queue from commands/slash/music/queue.js
+[2025-02-25T11:30:00.714Z] info: Loaded slash command: resume from commands/slash/music/resume.js
+[2025-02-25T11:30:00.714Z] info: Loaded slash command: skip from commands/slash/music/skip.js
+[2025-02-25T11:30:00.715Z] info: Loaded slash command: stop from commands/slash/music/stop.js
+[2025-02-25T11:30:00.718Z] info: Loaded slash command: autoreact from commands/slash/utility/autoreact.js
+[2025-02-25T11:30:00.721Z] info: Loaded slash command: avatar from commands/slash/utility/avatar.js
+[2025-02-25T11:30:00.722Z] info: Loaded slash command: poll from commands/slash/utility/poll.js
+[2025-02-25T11:30:00.724Z] info: Loaded slash command: remind from commands/slash/utility/remind.js
+[2025-02-25T11:30:00.725Z] info: Loaded slash command: serverinfo from commands/slash/utility/serverinfo.js
+[2025-02-25T11:30:00.727Z] info: Loaded slash command: ticket from commands/slash/utility/ticket.js
+[2025-02-25T11:30:00.729Z] info: Loaded slash command: userinfo from commands/slash/utility/userinfo.js
+[2025-02-25T11:30:00.731Z] info: Loaded prefix command: ban from commands/prefix/moderation/ban.js
+[2025-02-25T11:30:00.732Z] info: Loaded prefix command: clear from commands/prefix/moderation/clear.js
+[2025-02-25T11:30:00.733Z] info: Loaded prefix command: kick from commands/prefix/moderation/kick.js
+[2025-02-25T11:30:00.734Z] info: Loaded prefix command: lock from commands/prefix/moderation/lock.js
+[2025-02-25T11:30:00.736Z] info: Loaded prefix command: mute from commands/prefix/moderation/mute.js
+[2025-02-25T11:30:00.737Z] info: Loaded prefix command: warn from commands/prefix/moderation/warn.js
+[2025-02-25T11:30:00.738Z] info: Loaded prefix command: avatar from commands/prefix/utility/avatar.js
+[2025-02-25T11:30:00.740Z] info: Loaded prefix command: help from commands/prefix/utility/help.js
+[2025-02-25T11:30:00.741Z] info: Loaded prefix command: nick from commands/prefix/utility/nick.js
+[2025-02-25T11:30:00.741Z] info: Loaded prefix command: ping from commands/prefix/utility/ping.js
+[2025-02-25T11:30:00.741Z] info: Loaded prefix command: say from commands/prefix/utility/say.js
+[2025-02-25T11:30:00.742Z] info: Loaded prefix command: serverinfo from commands/prefix/utility/serverinfo.js
+[2025-02-25T11:30:00.744Z] info: Loaded prefix command: userinfo from commands/prefix/utility/userinfo.js
+[2025-02-25T11:30:00.744Z] info: Loaded prefix command: whois from commands/prefix/utility/whois.js
+[2025-02-25T11:30:00.745Z] info: Loaded [32m22[39m slash commands
+[2025-02-25T11:30:00.745Z] info: Loaded [32m14[39m prefix commands
+[2025-02-25T11:30:01.159Z] info: Successfully registered 22 slash commands in test guild: /cute
+[2025-02-25T11:30:01.159Z] info: Logged in as TheLaxentaSmp!#1622!
+[2025-02-25T11:32:11.320Z] info: Shutting down...
+[2025-02-25T11:33:01.978Z] info: DisTube setup completed
+[2025-02-25T11:33:01.981Z] info: Loaded event: interactionCreate from buttonInteraction.js
+[2025-02-25T11:33:01.981Z] info: Loaded event: guildMemberAdd from guildMemberAdd.js
+[2025-02-25T11:33:01.982Z] info: Loaded event: interactionCreate from interactionCreate.js
+[2025-02-25T11:33:01.984Z] info: Loaded event: messageCreate from messageCreate.js
+[2025-02-25T11:33:01.985Z] info: Loaded event: interactionCreate from modalSubmit.js
+[2025-02-25T11:33:01.985Z] info: Loaded event: ready from ready.js
+[2025-02-25T11:33:02.053Z] info: Ticket configuration loaded successfully
+[2025-02-25T11:33:04.688Z] info: Logged in as TheLaxentaSmp!#1622
+[2025-02-25T11:33:04.691Z] info: Loaded slash command: 8ball from commands/slash/fun/8ball.js
+[2025-02-25T11:33:04.692Z] info: Loaded slash command: roll from commands/slash/fun/roll.js
+[2025-02-25T11:33:04.693Z] info: Loaded slash command: ban from commands/slash/moderation/ban.js
+[2025-02-25T11:33:04.694Z] info: Loaded slash command: channel from commands/slash/moderation/channel.js
+[2025-02-25T11:33:04.695Z] info: Loaded slash command: clear from commands/slash/moderation/clear.js
+[2025-02-25T11:33:04.695Z] info: Loaded slash command: kick from commands/slash/moderation/kick.js
+[2025-02-25T11:33:04.696Z] info: Loaded slash command: role from commands/slash/moderation/role.js
+[2025-02-25T11:33:04.697Z] info: Loaded slash command: timeout from commands/slash/moderation/timeout.js
+[2025-02-25T11:33:04.698Z] info: Loaded slash command: warn from commands/slash/moderation/warn.js
+[2025-02-25T11:33:04.699Z] error: Invalid slash command structure in /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+[2025-02-25T11:33:04.699Z] info: Loaded slash command: pause from commands/slash/music/pause.js
+[2025-02-25T11:33:04.702Z] info: Loaded slash command: play from commands/slash/music/play.js
+[2025-02-25T11:33:04.703Z] info: Loaded slash command: queue from commands/slash/music/queue.js
+[2025-02-25T11:33:04.703Z] info: Loaded slash command: resume from commands/slash/music/resume.js
+[2025-02-25T11:33:04.704Z] info: Loaded slash command: skip from commands/slash/music/skip.js
+[2025-02-25T11:33:04.704Z] info: Loaded slash command: stop from commands/slash/music/stop.js
+[2025-02-25T11:33:04.705Z] info: Loaded slash command: autoreact from commands/slash/utility/autoreact.js
+[2025-02-25T11:33:04.706Z] info: Loaded slash command: avatar from commands/slash/utility/avatar.js
+[2025-02-25T11:33:04.706Z] info: Loaded slash command: poll from commands/slash/utility/poll.js
+[2025-02-25T11:33:04.707Z] info: Loaded slash command: remind from commands/slash/utility/remind.js
+[2025-02-25T11:33:04.707Z] info: Loaded slash command: serverinfo from commands/slash/utility/serverinfo.js
+[2025-02-25T11:33:04.709Z] info: Loaded slash command: ticket from commands/slash/utility/ticket.js
+[2025-02-25T11:33:04.709Z] info: Loaded slash command: userinfo from commands/slash/utility/userinfo.js
+[2025-02-25T11:33:04.710Z] info: Loaded prefix command: ban from commands/prefix/moderation/ban.js
+[2025-02-25T11:33:04.711Z] info: Loaded prefix command: clear from commands/prefix/moderation/clear.js
+[2025-02-25T11:33:04.711Z] info: Loaded prefix command: kick from commands/prefix/moderation/kick.js
+[2025-02-25T11:33:04.712Z] info: Loaded prefix command: lock from commands/prefix/moderation/lock.js
+[2025-02-25T11:33:04.712Z] info: Loaded prefix command: mute from commands/prefix/moderation/mute.js
+[2025-02-25T11:33:04.713Z] info: Loaded prefix command: warn from commands/prefix/moderation/warn.js
+[2025-02-25T11:33:04.713Z] info: Loaded prefix command: avatar from commands/prefix/utility/avatar.js
+[2025-02-25T11:33:04.714Z] info: Loaded prefix command: help from commands/prefix/utility/help.js
+[2025-02-25T11:33:04.714Z] info: Loaded prefix command: nick from commands/prefix/utility/nick.js
+[2025-02-25T11:33:04.715Z] info: Loaded prefix command: ping from commands/prefix/utility/ping.js
+[2025-02-25T11:33:04.715Z] info: Loaded prefix command: say from commands/prefix/utility/say.js
+[2025-02-25T11:33:04.716Z] info: Loaded prefix command: serverinfo from commands/prefix/utility/serverinfo.js
+[2025-02-25T11:33:04.716Z] info: Loaded prefix command: userinfo from commands/prefix/utility/userinfo.js
+[2025-02-25T11:33:04.716Z] info: Loaded prefix command: whois from commands/prefix/utility/whois.js
+[2025-02-25T11:33:04.717Z] info: Loaded [32m22[39m slash commands
+[2025-02-25T11:33:04.717Z] info: Loaded [32m14[39m prefix commands
+[2025-02-25T11:33:05.170Z] info: Successfully registered 22 slash commands in test guild: /cute
+[2025-02-25T11:33:05.171Z] info: Logged in as TheLaxentaSmp!#1622!
+[2025-02-25T11:33:39.711Z] info: Shutting down...
+[2025-02-25T11:33:42.635Z] info: DisTube setup completed
+[2025-02-25T11:33:42.637Z] info: Loaded event: interactionCreate from buttonInteraction.js
+[2025-02-25T11:33:42.638Z] info: Loaded event: guildMemberAdd from guildMemberAdd.js
+[2025-02-25T11:33:42.638Z] info: Loaded event: interactionCreate from interactionCreate.js
+[2025-02-25T11:33:42.641Z] info: Loaded event: messageCreate from messageCreate.js
+[2025-02-25T11:33:42.642Z] info: Loaded event: interactionCreate from modalSubmit.js
+[2025-02-25T11:33:42.642Z] info: Loaded event: ready from ready.js
+[2025-02-25T11:33:42.713Z] info: Ticket configuration loaded successfully
+[2025-02-25T11:33:45.696Z] info: Logged in as TheLaxentaSmp!#1622
+[2025-02-25T11:33:45.699Z] info: Loaded slash command: 8ball from commands/slash/fun/8ball.js
+[2025-02-25T11:33:45.699Z] info: Loaded slash command: roll from commands/slash/fun/roll.js
+[2025-02-25T11:33:45.701Z] info: Loaded slash command: ban from commands/slash/moderation/ban.js
+[2025-02-25T11:33:45.701Z] info: Loaded slash command: channel from commands/slash/moderation/channel.js
+[2025-02-25T11:33:45.703Z] info: Loaded slash command: clear from commands/slash/moderation/clear.js
+[2025-02-25T11:33:45.704Z] info: Loaded slash command: kick from commands/slash/moderation/kick.js
+[2025-02-25T11:33:45.705Z] info: Loaded slash command: role from commands/slash/moderation/role.js
+[2025-02-25T11:33:45.706Z] info: Loaded slash command: timeout from commands/slash/moderation/timeout.js
+[2025-02-25T11:33:45.707Z] info: Loaded slash command: warn from commands/slash/moderation/warn.js
+[2025-02-25T11:33:45.711Z] error: Failed to load command from commands/slash/music/music.js: Cannot find module 'mongoose'
+Require stack:
+- /workspaces/DiscordBot/DiscordNexus/src/handlers/buttonHandler.js
+- /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+- /workspaces/DiscordBot/DiscordNexus/src/loader/loadcommands.js
+- /workspaces/DiscordBot/DiscordNexus/src/index.js
+[2025-02-25T11:33:45.712Z] info: Loaded slash command: pause from commands/slash/music/pause.js
+[2025-02-25T11:33:45.712Z] info: Loaded slash command: play from commands/slash/music/play.js
+[2025-02-25T11:33:45.713Z] info: Loaded slash command: queue from commands/slash/music/queue.js
+[2025-02-25T11:33:45.713Z] info: Loaded slash command: resume from commands/slash/music/resume.js
+[2025-02-25T11:33:45.714Z] info: Loaded slash command: skip from commands/slash/music/skip.js
+[2025-02-25T11:33:45.714Z] info: Loaded slash command: stop from commands/slash/music/stop.js
+[2025-02-25T11:33:45.715Z] info: Loaded slash command: autoreact from commands/slash/utility/autoreact.js
+[2025-02-25T11:33:45.716Z] info: Loaded slash command: avatar from commands/slash/utility/avatar.js
+[2025-02-25T11:33:45.716Z] info: Loaded slash command: poll from commands/slash/utility/poll.js
+[2025-02-25T11:33:45.717Z] info: Loaded slash command: remind from commands/slash/utility/remind.js
+[2025-02-25T11:33:45.718Z] info: Loaded slash command: serverinfo from commands/slash/utility/serverinfo.js
+[2025-02-25T11:33:45.719Z] info: Loaded slash command: ticket from commands/slash/utility/ticket.js
+[2025-02-25T11:33:45.720Z] info: Loaded slash command: userinfo from commands/slash/utility/userinfo.js
+[2025-02-25T11:33:45.720Z] info: Loaded prefix command: ban from commands/prefix/moderation/ban.js
+[2025-02-25T11:33:45.721Z] info: Loaded prefix command: clear from commands/prefix/moderation/clear.js
+[2025-02-25T11:33:45.721Z] info: Loaded prefix command: kick from commands/prefix/moderation/kick.js
+[2025-02-25T11:33:45.722Z] info: Loaded prefix command: lock from commands/prefix/moderation/lock.js
+[2025-02-25T11:33:45.722Z] info: Loaded prefix command: mute from commands/prefix/moderation/mute.js
+[2025-02-25T11:33:45.723Z] info: Loaded prefix command: warn from commands/prefix/moderation/warn.js
+[2025-02-25T11:33:45.724Z] info: Loaded prefix command: avatar from commands/prefix/utility/avatar.js
+[2025-02-25T11:33:45.724Z] info: Loaded prefix command: help from commands/prefix/utility/help.js
+[2025-02-25T11:33:45.725Z] info: Loaded prefix command: nick from commands/prefix/utility/nick.js
+[2025-02-25T11:33:45.725Z] info: Loaded prefix command: ping from commands/prefix/utility/ping.js
+[2025-02-25T11:33:45.726Z] info: Loaded prefix command: say from commands/prefix/utility/say.js
+[2025-02-25T11:33:45.726Z] info: Loaded prefix command: serverinfo from commands/prefix/utility/serverinfo.js
+[2025-02-25T11:33:45.726Z] info: Loaded prefix command: userinfo from commands/prefix/utility/userinfo.js
+[2025-02-25T11:33:45.727Z] info: Loaded prefix command: whois from commands/prefix/utility/whois.js
+[2025-02-25T11:33:45.727Z] info: Loaded [32m22[39m slash commands
+[2025-02-25T11:33:45.727Z] info: Loaded [32m14[39m prefix commands
+[2025-02-25T11:33:46.183Z] info: Successfully registered 22 slash commands in test guild: /cute
+[2025-02-25T11:33:46.183Z] info: Logged in as TheLaxentaSmp!#1622!
+[2025-02-25T11:33:55.327Z] info: Executing command: play
+[2025-02-25T11:33:55.327Z] info: Command structure: {"hasData":true,"hasExecute":true,"properties":["data","execute"]}
+[2025-02-25T11:33:55.327Z] info: Play command triggered - Guild: 967716005835075644, Query: fainted
+[2025-02-25T11:33:57.214Z] info: Found song: Narvent - Fainted (4K Music Video) for query: fainted
+[2025-02-25T11:33:57.874Z] info: Queue initialized for guild: 967716005835075644
+[2025-02-25T11:33:59.304Z] error: Error playing music: https://www.youtube.com/watch?v=dJWFUBAUM0E
+Sign in to confirm you’re not a bot
+[2025-02-25T11:34:29.374Z] info: Executing command: play
+[2025-02-25T11:34:29.375Z] info: Command structure: {"hasData":true,"hasExecute":true,"properties":["data","execute"]}
+[2025-02-25T11:34:29.375Z] info: Play command triggered - Guild: 967716005835075644, Query: ma belle
+[2025-02-25T11:34:31.146Z] info: Found song: Ma Belle - AP Dhillon (ft. Amari) [Official Music Video] for query: ma belle
+[2025-02-25T11:34:32.470Z] error: Error playing music: https://www.youtube.com/watch?v=6piRLp7BV8o
+Sign in to confirm you’re not a bot
+[2025-02-25T11:44:10.228Z] info: Shutting down...
+[2025-02-25T11:44:13.005Z] info: DisTube setup completed
+[2025-02-25T11:44:13.009Z] info: Loaded event: interactionCreate from buttonInteraction.js
+[2025-02-25T11:44:13.010Z] info: Loaded event: guildMemberAdd from guildMemberAdd.js
+[2025-02-25T11:44:13.010Z] info: Loaded event: interactionCreate from interactionCreate.js
+[2025-02-25T11:44:13.016Z] info: Loaded event: messageCreate from messageCreate.js
+[2025-02-25T11:44:13.017Z] info: Loaded event:  from modLogger.js
+[2025-02-25T11:44:13.017Z] info: Loaded event: interactionCreate from modalSubmit.js
+[2025-02-25T11:44:13.018Z] info: Loaded event: ready from ready.js
+[2025-02-25T11:44:13.094Z] info: Ticket configuration loaded successfully
+[2025-02-25T11:44:14.568Z] info: Logged in as TheLaxentaSmp!#1622
+[2025-02-25T11:44:14.574Z] info: Loaded slash command: 8ball from commands/slash/fun/8ball.js
+[2025-02-25T11:44:14.576Z] info: Loaded slash command: roll from commands/slash/fun/roll.js
+[2025-02-25T11:44:14.577Z] info: Loaded slash command: ban from commands/slash/moderation/ban.js
+[2025-02-25T11:44:14.577Z] info: Loaded slash command: channel from commands/slash/moderation/channel.js
+[2025-02-25T11:44:14.578Z] info: Loaded slash command: clear from commands/slash/moderation/clear.js
+[2025-02-25T11:44:14.579Z] info: Loaded slash command: kick from commands/slash/moderation/kick.js
+[2025-02-25T11:44:14.580Z] info: Loaded slash command: setmodlogs from commands/slash/moderation/modlogs.js
+[2025-02-25T11:44:14.581Z] info: Loaded slash command: role from commands/slash/moderation/role.js
+[2025-02-25T11:44:14.581Z] info: Loaded slash command: timeout from commands/slash/moderation/timeout.js
+[2025-02-25T11:44:14.583Z] info: Loaded slash command: warn from commands/slash/moderation/warn.js
+[2025-02-25T11:44:14.586Z] error: Failed to load command from commands/slash/music/music.js: Cannot find module 'mongoose'
+Require stack:
+- /workspaces/DiscordBot/DiscordNexus/src/handlers/buttonHandler.js
+- /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+- /workspaces/DiscordBot/DiscordNexus/src/loader/loadcommands.js
+- /workspaces/DiscordBot/DiscordNexus/src/index.js
+[2025-02-25T11:44:14.587Z] info: Loaded slash command: pause from commands/slash/music/pause.js
+[2025-02-25T11:44:14.587Z] info: Loaded slash command: play from commands/slash/music/play.js
+[2025-02-25T11:44:14.588Z] info: Loaded slash command: queue from commands/slash/music/queue.js
+[2025-02-25T11:44:14.588Z] info: Loaded slash command: resume from commands/slash/music/resume.js
+[2025-02-25T11:44:14.589Z] info: Loaded slash command: skip from commands/slash/music/skip.js
+[2025-02-25T11:44:14.589Z] info: Loaded slash command: stop from commands/slash/music/stop.js
+[2025-02-25T11:44:14.590Z] info: Loaded slash command: autoreact from commands/slash/utility/autoreact.js
+[2025-02-25T11:44:14.591Z] info: Loaded slash command: avatar from commands/slash/utility/avatar.js
+[2025-02-25T11:44:14.591Z] info: Loaded slash command: poll from commands/slash/utility/poll.js
+[2025-02-25T11:44:14.592Z] info: Loaded slash command: remind from commands/slash/utility/remind.js
+[2025-02-25T11:44:14.593Z] info: Loaded slash command: serverinfo from commands/slash/utility/serverinfo.js
+[2025-02-25T11:44:14.595Z] info: Loaded slash command: ticket from commands/slash/utility/ticket.js
+[2025-02-25T11:44:14.595Z] info: Loaded slash command: userinfo from commands/slash/utility/userinfo.js
+[2025-02-25T11:44:14.596Z] info: Loaded prefix command: ban from commands/prefix/moderation/ban.js
+[2025-02-25T11:44:14.596Z] info: Loaded prefix command: clear from commands/prefix/moderation/clear.js
+[2025-02-25T11:44:14.597Z] info: Loaded prefix command: kick from commands/prefix/moderation/kick.js
+[2025-02-25T11:44:14.597Z] info: Loaded prefix command: lock from commands/prefix/moderation/lock.js
+[2025-02-25T11:44:14.598Z] info: Loaded prefix command: mute from commands/prefix/moderation/mute.js
+[2025-02-25T11:44:14.598Z] info: Loaded prefix command: warn from commands/prefix/moderation/warn.js
+[2025-02-25T11:44:14.599Z] info: Loaded prefix command: avatar from commands/prefix/utility/avatar.js
+[2025-02-25T11:44:14.600Z] info: Loaded prefix command: help from commands/prefix/utility/help.js
+[2025-02-25T11:44:14.600Z] info: Loaded prefix command: nick from commands/prefix/utility/nick.js
+[2025-02-25T11:44:14.600Z] info: Loaded prefix command: ping from commands/prefix/utility/ping.js
+[2025-02-25T11:44:14.601Z] info: Loaded prefix command: say from commands/prefix/utility/say.js
+[2025-02-25T11:44:14.601Z] info: Loaded prefix command: serverinfo from commands/prefix/utility/serverinfo.js
+[2025-02-25T11:44:14.601Z] info: Loaded prefix command: userinfo from commands/prefix/utility/userinfo.js
+[2025-02-25T11:44:14.602Z] info: Loaded prefix command: whois from commands/prefix/utility/whois.js
+[2025-02-25T11:44:14.602Z] info: Loaded [32m23[39m slash commands
+[2025-02-25T11:44:14.602Z] info: Loaded [32m14[39m prefix commands
+[2025-02-25T11:44:15.106Z] info: Successfully registered 23 slash commands in test guild: /cute
+[2025-02-25T11:44:15.106Z] info: Logged in as TheLaxentaSmp!#1622!
+[2025-02-25T11:45:32.720Z] info: Executing command: setmodlogs
+[2025-02-25T11:45:32.720Z] info: Command structure: {"hasData":true,"hasExecute":true,"properties":["data","execute"]}
+[2025-02-25T11:48:05.980Z] info: Shutting down...
+[2025-02-25T11:48:09.156Z] info: DisTube setup completed
+[2025-02-25T11:48:09.158Z] info: Loaded event: interactionCreate from buttonInteraction.js
+[2025-02-25T11:48:09.159Z] info: Loaded event: guildMemberAdd from guildMemberAdd.js
+[2025-02-25T11:48:09.160Z] info: Loaded event: interactionCreate from interactionCreate.js
+[2025-02-25T11:48:09.163Z] info: Loaded event: messageCreate from messageCreate.js
+[2025-02-25T11:48:09.163Z] info: Loaded event:  from modLogger.js
+[2025-02-25T11:48:09.164Z] info: Loaded event: interactionCreate from modalSubmit.js
+[2025-02-25T11:48:09.165Z] info: Loaded event: ready from ready.js
+[2025-02-25T11:48:09.263Z] info: Ticket configuration loaded successfully
+[2025-02-25T11:48:11.952Z] info: Logged in as TheLaxentaSmp!#1622
+[2025-02-25T11:48:11.955Z] info: Loaded slash command: 8ball from commands/slash/fun/8ball.js
+[2025-02-25T11:48:11.956Z] info: Loaded slash command: roll from commands/slash/fun/roll.js
+[2025-02-25T11:48:11.957Z] info: Loaded slash command: ban from commands/slash/moderation/ban.js
+[2025-02-25T11:48:11.957Z] info: Loaded slash command: channel from commands/slash/moderation/channel.js
+[2025-02-25T11:48:11.958Z] info: Loaded slash command: clear from commands/slash/moderation/clear.js
+[2025-02-25T11:48:11.959Z] info: Loaded slash command: kick from commands/slash/moderation/kick.js
+[2025-02-25T11:48:11.960Z] info: Loaded slash command: setmodlogs from commands/slash/moderation/modlogs.js
+[2025-02-25T11:48:11.961Z] info: Loaded slash command: role from commands/slash/moderation/role.js
+[2025-02-25T11:48:11.962Z] info: Loaded slash command: timeout from commands/slash/moderation/timeout.js
+[2025-02-25T11:48:11.963Z] info: Loaded slash command: warn from commands/slash/moderation/warn.js
+[2025-02-25T11:48:11.966Z] error: Failed to load command from commands/slash/music/music.js: Cannot find module 'mongoose'
+Require stack:
+- /workspaces/DiscordBot/DiscordNexus/src/handlers/buttonHandler.js
+- /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+- /workspaces/DiscordBot/DiscordNexus/src/loader/loadcommands.js
+- /workspaces/DiscordBot/DiscordNexus/src/index.js
+[2025-02-25T11:48:11.967Z] info: Loaded slash command: pause from commands/slash/music/pause.js
+[2025-02-25T11:48:11.968Z] info: Loaded slash command: play from commands/slash/music/play.js
+[2025-02-25T11:48:11.968Z] info: Loaded slash command: queue from commands/slash/music/queue.js
+[2025-02-25T11:48:11.968Z] info: Loaded slash command: resume from commands/slash/music/resume.js
+[2025-02-25T11:48:11.969Z] info: Loaded slash command: skip from commands/slash/music/skip.js
+[2025-02-25T11:48:11.970Z] info: Loaded slash command: stop from commands/slash/music/stop.js
+[2025-02-25T11:48:11.971Z] info: Loaded slash command: autoreact from commands/slash/utility/autoreact.js
+[2025-02-25T11:48:11.971Z] info: Loaded slash command: avatar from commands/slash/utility/avatar.js
+[2025-02-25T11:48:11.972Z] info: Loaded slash command: poll from commands/slash/utility/poll.js
+[2025-02-25T11:48:11.973Z] info: Loaded slash command: remind from commands/slash/utility/remind.js
+[2025-02-25T11:48:11.977Z] info: Loaded slash command: serverinfo from commands/slash/utility/serverinfo.js
+[2025-02-25T11:48:11.978Z] info: Loaded slash command: ticket from commands/slash/utility/ticket.js
+[2025-02-25T11:48:11.979Z] info: Loaded slash command: userinfo from commands/slash/utility/userinfo.js
+[2025-02-25T11:48:11.979Z] info: Loaded prefix command: ban from commands/prefix/moderation/ban.js
+[2025-02-25T11:48:11.980Z] info: Loaded prefix command: clear from commands/prefix/moderation/clear.js
+[2025-02-25T11:48:11.980Z] info: Loaded prefix command: kick from commands/prefix/moderation/kick.js
+[2025-02-25T11:48:11.981Z] info: Loaded prefix command: lock from commands/prefix/moderation/lock.js
+[2025-02-25T11:48:11.981Z] info: Loaded prefix command: mute from commands/prefix/moderation/mute.js
+[2025-02-25T11:48:11.982Z] info: Loaded prefix command: warn from commands/prefix/moderation/warn.js
+[2025-02-25T11:48:11.982Z] info: Loaded prefix command: avatar from commands/prefix/utility/avatar.js
+[2025-02-25T11:48:11.983Z] info: Loaded prefix command: help from commands/prefix/utility/help.js
+[2025-02-25T11:48:11.983Z] info: Loaded prefix command: nick from commands/prefix/utility/nick.js
+[2025-02-25T11:48:11.984Z] info: Loaded prefix command: ping from commands/prefix/utility/ping.js
+[2025-02-25T11:48:11.984Z] info: Loaded prefix command: say from commands/prefix/utility/say.js
+[2025-02-25T11:48:11.984Z] info: Loaded prefix command: serverinfo from commands/prefix/utility/serverinfo.js
+[2025-02-25T11:48:11.985Z] info: Loaded prefix command: userinfo from commands/prefix/utility/userinfo.js
+[2025-02-25T11:48:11.985Z] info: Loaded prefix command: whois from commands/prefix/utility/whois.js
+[2025-02-25T11:48:11.986Z] info: Loaded [32m23[39m slash commands
+[2025-02-25T11:48:11.986Z] info: Loaded [32m14[39m prefix commands
+[2025-02-25T11:48:12.450Z] info: Successfully registered 23 slash commands in test guild: /cute
+[2025-02-25T11:48:12.450Z] info: Logged in as TheLaxentaSmp!#1622!
+[2025-02-25T11:49:10.551Z] info: Shutting down...
+[2025-02-25T11:49:13.630Z] info: DisTube setup completed
+[2025-02-25T11:49:13.632Z] info: Loaded event: interactionCreate from buttonInteraction.js
+[2025-02-25T11:49:13.633Z] info: Loaded event: guildMemberAdd from guildMemberAdd.js
+[2025-02-25T11:49:13.633Z] info: Loaded event: interactionCreate from interactionCreate.js
+[2025-02-25T11:49:13.636Z] info: Loaded event: messageCreate from messageCreate.js
+[2025-02-25T11:49:13.637Z] info: Loaded event:  from modLogger.js
+[2025-02-25T11:49:13.638Z] info: Loaded event: interactionCreate from modalSubmit.js
+[2025-02-25T11:49:13.638Z] info: Loaded event: ready from ready.js
+[2025-02-25T11:49:13.708Z] info: Ticket configuration loaded successfully
+[2025-02-25T11:49:16.128Z] info: Logged in as TheLaxentaSmp!#1622
+[2025-02-25T11:49:16.131Z] info: [34m[INFO][39m Loaded slash command: 8ball from commands/slash/fun/8ball.js
+[2025-02-25T11:49:16.132Z] info: [34m[INFO][39m Loaded slash command: roll from commands/slash/fun/roll.js
+[2025-02-25T11:49:16.133Z] info: [34m[INFO][39m Loaded slash command: ban from commands/slash/moderation/ban.js
+[2025-02-25T11:49:16.134Z] info: [34m[INFO][39m Loaded slash command: channel from commands/slash/moderation/channel.js
+[2025-02-25T11:49:16.134Z] info: [34m[INFO][39m Loaded slash command: clear from commands/slash/moderation/clear.js
+[2025-02-25T11:49:16.135Z] info: [34m[INFO][39m Loaded slash command: kick from commands/slash/moderation/kick.js
+[2025-02-25T11:49:16.137Z] info: [34m[INFO][39m Loaded slash command: setmodlogs from commands/slash/moderation/modlogs.js
+[2025-02-25T11:49:16.138Z] info: [34m[INFO][39m Loaded slash command: role from commands/slash/moderation/role.js
+[2025-02-25T11:49:16.139Z] info: [34m[INFO][39m Loaded slash command: timeout from commands/slash/moderation/timeout.js
+[2025-02-25T11:49:16.140Z] info: [34m[INFO][39m Loaded slash command: warn from commands/slash/moderation/warn.js
+[2025-02-25T11:49:16.144Z] error: [31m[ERROR][39m Failed to load command from commands/slash/music/music.js: Cannot find module 'mongoose'
+Require stack:
+- /workspaces/DiscordBot/DiscordNexus/src/handlers/buttonHandler.js
+- /workspaces/DiscordBot/DiscordNexus/src/commands/slash/music/music.js
+- /workspaces/DiscordBot/DiscordNexus/src/loader/loadcommands.js
+- /workspaces/DiscordBot/DiscordNexus/src/index.js
+[2025-02-25T11:49:16.145Z] info: [34m[INFO][39m Loaded slash command: pause from commands/slash/music/pause.js
+[2025-02-25T11:49:16.146Z] info: [34m[INFO][39m Loaded slash command: play from commands/slash/music/play.js
+[2025-02-25T11:49:16.146Z] info: [34m[INFO][39m Loaded slash command: queue from commands/slash/music/queue.js
+[2025-02-25T11:49:16.147Z] info: [34m[INFO][39m Loaded slash command: resume from commands/slash/music/resume.js
+[2025-02-25T11:49:16.147Z] info: [34m[INFO][39m Loaded slash command: skip from commands/slash/music/skip.js
+[2025-02-25T11:49:16.148Z] info: [34m[INFO][39m Loaded slash command: stop from commands/slash/music/stop.js
+[2025-02-25T11:49:16.149Z] info: [34m[INFO][39m Loaded slash command: autoreact from commands/slash/utility/autoreact.js
+[2025-02-25T11:49:16.149Z] info: [34m[INFO][39m Loaded slash command: avatar from commands/slash/utility/avatar.js
+[2025-02-25T11:49:16.150Z] info: [34m[INFO][39m Loaded slash command: poll from commands/slash/utility/poll.js
+[2025-02-25T11:49:16.151Z] info: [34m[INFO][39m Loaded slash command: remind from commands/slash/utility/remind.js
+[2025-02-25T11:49:16.151Z] info: [34m[INFO][39m Loaded slash command: serverinfo from commands/slash/utility/serverinfo.js
+[2025-02-25T11:49:16.153Z] info: [34m[INFO][39m Loaded slash command: ticket from commands/slash/utility/ticket.js
+[2025-02-25T11:49:16.154Z] info: [34m[INFO][39m Loaded slash command: userinfo from commands/slash/utility/userinfo.js
+[2025-02-25T11:49:16.154Z] info: [34m[INFO][39m Loaded prefix command: ban from commands/prefix/moderation/ban.js
+[2025-02-25T11:49:16.155Z] info: [34m[INFO][39m Loaded prefix command: clear from commands/prefix/moderation/clear.js
+[2025-02-25T11:49:16.155Z] info: [34m[INFO][39m Loaded prefix command: kick from commands/prefix/moderation/kick.js
+[2025-02-25T11:49:16.155Z] info: [34m[INFO][39m Loaded prefix command: lock from commands/prefix/moderation/lock.js
+[2025-02-25T11:49:16.156Z] info: [34m[INFO][39m Loaded prefix command: mute from commands/prefix/moderation/mute.js
+[2025-02-25T11:49:16.157Z] info: [34m[INFO][39m Loaded prefix command: warn from commands/prefix/moderation/warn.js
+[2025-02-25T11:49:16.157Z] info: [34m[INFO][39m Loaded prefix command: avatar from commands/prefix/utility/avatar.js
+[2025-02-25T11:49:16.158Z] info: [34m[INFO][39m Loaded prefix command: help from commands/prefix/utility/help.js
+[2025-02-25T11:49:16.158Z] info: [34m[INFO][39m Loaded prefix command: nick from commands/prefix/utility/nick.js
+[2025-02-25T11:49:16.158Z] info: [34m[INFO][39m Loaded prefix command: ping from commands/prefix/utility/ping.js
+[2025-02-25T11:49:16.159Z] info: [34m[INFO][39m Loaded prefix command: say from commands/prefix/utility/say.js
+[2025-02-25T11:49:16.159Z] info: [34m[INFO][39m Loaded prefix command: serverinfo from commands/prefix/utility/serverinfo.js
+[2025-02-25T11:49:16.160Z] info: [34m[INFO][39m Loaded prefix command: userinfo from commands/prefix/utility/userinfo.js
+[2025-02-25T11:49:16.160Z] info: [34m[INFO][39m Loaded prefix command: whois from commands/prefix/utility/whois.js
+[2025-02-25T11:49:16.161Z] info: [34m[INFO][39m Loaded [32m23[39m slash commands
+[2025-02-25T11:49:16.161Z] info: [34m[INFO][39m Loaded [32m14[39m prefix commands
+[2025-02-25T11:49:16.574Z] info: [34m[INFO][39m Successfully registered [32m23[39m slash commands in test guild: [33m/cute[39m
+[2025-02-25T11:49:16.574Z] info: Logged in as TheLaxentaSmp!#1622!
+[2025-02-25T12:01:53.688Z] info: Shutting down...

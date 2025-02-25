@@ -1,0 +1,13 @@
+[2025-02-20T08:32:01.199Z] error: Error during initialization: An invalid token was provided.
+[2025-02-20T09:09:00.636Z] error: Error executing slash command ticket: command.execute is not a function
+[2025-02-20T09:11:37.846Z] error: Error executing slash command ticket: command.execute is not a function
+[2025-02-20T09:11:37.846Z] error: Error executing slash command ticket: command.execute is not a function
+[2025-02-20T09:11:37.982Z] error: Uncaught exception: Unknown interaction
+[2025-02-20T09:12:34.971Z] error: Error executing slash command ticket: command.execute is not a function
+[2025-02-20T09:12:34.972Z] error: Error executing slash command ticket: command.execute is not a function
+[2025-02-20T09:12:35.110Z] error: Uncaught exception: Unknown interaction
+[2025-02-20T09:15:42.030Z] error: Error executing slash command ticket: command.execute is not a function
+[2025-02-20T09:18:37.798Z] error: Error executing slash command ticket: Invalid bitfield flag or number: [object Object].
+[2025-02-24T06:44:59.924Z] error: Error playing music: ffmpeg is not installed at 'ffmpeg' path
+[2025-02-24T06:46:02.033Z] error: DisTube error:
+[2025-02-24T06:49:42.687Z] error: DisTube error:

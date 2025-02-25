@@ -1,0 +1,20 @@
+{
+  "ticketInfo": {
+    "userId": "953527567808356404",
+    "channelId": "1342062846242197518",
+    "guildId": "967716005835075644",
+    "reason": "gir",
+    "messages": [],
+    "status": "open",
+    "createdAt": 1740043117792,
+    "messageId": "1342062849622675456"
+  },
+  "messages": [
+    {
+      "author": "TheLaxentaSmp!#1622",
+      "content": "",
+      "timestamp": "2025-02-20T09:18:37.672Z",
+      "attachments": []
+    }
+  ]
+}

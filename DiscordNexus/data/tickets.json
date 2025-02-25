@@ -1,0 +1,58 @@
+{
+  "1342062846242197518": {
+    "userId": "953527567808356404",
+    "channelId": "1342062846242197518",
+    "guildId": "967716005835075644",
+    "reason": "gir",
+    "messages": [],
+    "status": "closed",
+    "createdAt": 1740043117792,
+    "messageId": "1342062849622675456"
+  },
+  "1342063279966654504": {
+    "userId": "953527567808356404",
+    "channelId": "1342063279966654504",
+    "guildId": "967716005835075644",
+    "reason": "girl",
+    "messages": [],
+    "status": "closed",
+    "createdAt": 1740043221099,
+    "messageId": "1342063282802135042"
+  },
+  "1342067239767117847": {
+    "userId": "953527567808356404",
+    "channelId": "1342067239767117847",
+    "guildId": "967716005835075644",
+    "reason": "a",
+    "messages": [],
+    "status": "closed",
+    "createdAt": 1740044166558,
+    "messageId": "1342067248617095249",
+    "claimed": false,
+    "claimedBy": null
+  },
+  "1342069406112546827": {
+    "userId": "953527567808356404",
+    "channelId": "1342069406112546827",
+    "guildId": "967716005835075644",
+    "reason": "e",
+    "messages": [],
+    "status": "closed",
+    "createdAt": 1740044681408,
+    "messageId": "1342069408134074439",
+    "claimed": true,
+    "claimedBy": "953527567808356404"
+  },
+  "1342077984638504970": {
+    "userId": "953527567808356404",
+    "channelId": "1342077984638504970",
+    "guildId": "967716005835075644",
+    "reason": "test",
+    "messages": [],
+    "status": "open",
+    "createdAt": 1740046726630,
+    "messageId": "1342077986274541568",
+    "claimed": true,
+    "claimedBy": "953527567808356404"
+  }
+}
